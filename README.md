@@ -155,7 +155,3 @@ For a complete list of variables, see the `variables.tf` file.
 - ECS services are configured with auto-scaling capabilities and run on Fargate for serverless container execution
 - CloudWatch logs are enabled for all services
 - Fargate tasks automatically scale based on CPU and memory utilization
-
-## License
-
-This module is released under the MIT License. 
